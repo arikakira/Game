@@ -36,7 +36,7 @@ public class Main {
         four.getLevel(3).setPoints(500);
         System.out.println(four.getScore());
 
-        Game five = new Game();
+        Game five = new Game();     // test case 5
         System.out.println(five.playManyTimes(4));
     }
 }
